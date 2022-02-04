@@ -104,11 +104,11 @@ def yayanxd():
     kontol = raw_input('\n %s[%s?%s] Token :%s '%(N,M,N,H))
     if kontol in ('open', 'Open', 'OPEN'):
     	print'-------------------------------------------------------------------------------------------------------------------------
-        print '\n%s *%s note! usahakan akun tumbal login di chrome terlebih dahulu |'%(B,N);time.sleep(2)
+        print'\n%s *%s note! usahakan akun tumbal login di chrome terlebih dahulu |'%(B,N);time.sleep(2)
         print'-------------------------------------------------------------------------------------------------------------------------
-        print '%s *%s jangan lupa! url ubah ke %shttps://m.facebook.com                    |'%(B,N,H);time.sleep(2)
+        print '%s *%s jangan lupa! url ubah ke %shttps://m.facebook.com                  |'%(B,N,H);time.sleep(2)
         print'-------------------------------------------------------------------------------------------------------------------------
-        print '%s *%s setelah di alihkan ke google chrome. klik %stitik tiga                  |'%(B,N,H);time.sleep(2)
+        print'%s *%s setelah di alihkan ke google chrome. klik %stitik tiga                  |'%(B,N,H);time.sleep(2)
         print'-------------------------------------------------------------------------------------------------------------------------
         print '%s *%s klik %sCari di Halaman%s Tinggal ketik %sEAAA%s Lalu salin.'%(B,N,H,N,H,N);time.sleep(2)
         raw_input(' %s*%s tekan enter '%(O,N))
